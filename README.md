@@ -1,92 +1,25 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/guruprasath-s-b/leet-code/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/guruprasath-s-b/leet-code/tree/master/0021-merge-two-sorted-lists) |
-| [0326-power-of-three](https://github.com/guruprasath-s-b/leet-code/tree/master/0326-power-of-three) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/guruprasath-s-b/leet-code/tree/master/0002-add-two-numbers) |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-| [0326-power-of-three](https://github.com/guruprasath-s-b/leet-code/tree/master/0326-power-of-three) |
-| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/guruprasath-s-b/leet-code/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/guruprasath-s-b/leet-code/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Binary Search
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Pigeonhole Principle
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/guruprasath-s-b/leet-code/tree/master/0287-find-the-duplicate-number) |
-## Brainteaser
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-## Minimax
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-## Game Theory
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-## Nim Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-## Impartial Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/guruprasath-s-b/leet-code/tree/master/0292-nim-game) |
-## String
-|  |
-| ------- |
-| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
-## Stack
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/guruprasath-s-b/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
-<!---LeetCode Topics End-->
+# 🧩 LeetCode Practice Logs
+
+Repository to track my daily LeetCode practice, solutions, and progress!
+
+---
+
+## 📅 Daily Log
+
+| Date | # | Problem | Difficulty | Solution | Language |
+|---|---|---|---|---|---|
+| YYYY-MM-DD | 001 | Two Sum | Easy | [Code](./solutions/001.py) | Python |
+| YYYY-MM-DD | --- | --- | --- | --- | --- |
+
+---
+
+## 🛠 Languages Used
+* C
+* Java
+* Python
+
+---
+
+## 🎯 Daily Goal
+* Solve at least 1 problem every day.
+* Improve problem-solving speed and algorithm knowledge.
