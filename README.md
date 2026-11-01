@@ -29,6 +29,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/guruprasath-s-b/leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -58,4 +59,8 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/guruprasath-s-b/leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
