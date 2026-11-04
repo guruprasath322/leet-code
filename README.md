@@ -35,8 +35,26 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Hash Table
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
