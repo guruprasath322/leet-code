@@ -25,10 +25,6 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 
 ---
 
-## 🎯 Daily Goal
-- Solve at least 1 problem every day.
-- Improve problem-solving speed and algorithm knowledge.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
