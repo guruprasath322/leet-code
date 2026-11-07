@@ -38,6 +38,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guruprasath-s-b/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/guruprasath-s-b/leet-code/tree/master/2747-count-zero-request-servers) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
