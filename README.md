@@ -31,6 +31,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guruprasath-s-b/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/guruprasath-s-b/leet-code/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -75,4 +76,24 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
