@@ -36,6 +36,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guruprasath-s-b/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/guruprasath-s-b/leet-code/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/guruprasath-s-b/leet-code/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/guruprasath-s-b/leet-code/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
