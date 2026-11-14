@@ -31,6 +31,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/guruprasath-s-b/leet-code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guruprasath-s-b/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guruprasath-s-b/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -41,6 +42,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guruprasath-s-b/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/guruprasath-s-b/leet-code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -108,4 +110,8 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guruprasath-s-b/leet-code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/guruprasath-s-b/leet-code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
