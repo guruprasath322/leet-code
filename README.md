@@ -48,6 +48,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/guruprasath-s-b/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [2747-count-zero-request-servers](https://github.com/guruprasath-s-b/leet-code/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/guruprasath-s-b/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/guruprasath-s-b/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [2409-count-days-spent-together](https://github.com/guruprasath-s-b/leet-code/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
@@ -101,6 +103,7 @@ Repository to track my daily LeetCode practice, solutions, and progress!
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/guruprasath-s-b/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/guruprasath-s-b/leet-code/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
